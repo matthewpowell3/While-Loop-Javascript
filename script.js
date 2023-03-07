@@ -1,2 +1,6 @@
 ///While Loop Javascript
 
+while()
+{
+  
+}
